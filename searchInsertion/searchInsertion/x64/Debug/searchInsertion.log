@@ -1,0 +1,3 @@
+﻿  searchInsertion.cpp
+E:\tasks\searchInsertion\searchInsertion\searchInsertion.cpp(29,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  searchInsertion.vcxproj -> E:\tasks\searchInsertion\x64\Debug\searchInsertion.exe

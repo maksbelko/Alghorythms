@@ -1,0 +1,8 @@
+﻿  binarySearch.cpp
+E:\tasks\binarySearch\binarySearch\binarySearch.cpp(13,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\tasks\binarySearch\binarySearch\binarySearch.cpp(26,16): message : выполняется компиляция ссылки на экземпляр шаблон функции "size_t find<int>(std::vector<int,std::allocator<int>>,T)"
+          with
+          [
+              T=int
+          ]
+  binarySearch.vcxproj -> E:\tasks\binarySearch\x64\Debug\binarySearch.exe
